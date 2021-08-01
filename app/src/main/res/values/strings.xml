@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RandomUserList</string>
+    <string name="my_app_name">리스트입니다!</string>
+    <string name="local_name">이거슨 로컬 네임입니드아!</string>
+</resources>
